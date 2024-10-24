@@ -1,16 +1,13 @@
-# uts_login_register
+Nama : Dwi Ayu Setiawati
+NIM : 362358302073
+Kelas : 2A TRPL
 
-A new Flutter project.
+![Screenshot (69)](https://github.com/user-attachments/assets/3f40918e-83c7-49ab-bc18-e9ecc519bb49)
 
-## Getting Started
+![Screenshot (69)](https://github.com/user-attachments/assets/e9ee0c83-824d-4214-a243-b8696f51416e)
 
-This project is a starting point for a Flutter application.
+![Screenshot (71)](https://github.com/user-attachments/assets/a0c20baf-deab-4ff1-a1db-1e995812251b)
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot (72)](https://github.com/user-attachments/assets/629c55d2-3fd7-4ef7-a3ab-fb73fe468818)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (73)](https://github.com/user-attachments/assets/a9a41c04-efe9-400f-a4fe-6a92d975bc29)
